@@ -6,7 +6,7 @@ end
 
 def take_a_number(katz_deli, name)
   count=1
-  if katz_deli.length > 0
+  if katz_deli.length >= 0
     name << katz_deli
   puts "The line is currently: #{katz_deli}"
 end
