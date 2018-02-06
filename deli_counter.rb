@@ -6,7 +6,7 @@ message = "The line is currently:"
     puts "The line is currently empty."
   else
     katz_deli.each do |name|
-      message << name
+      message << " " + name + " "
     end
   end
 end
