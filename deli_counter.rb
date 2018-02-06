@@ -8,6 +8,7 @@ message = "The line is currently:"
       message << " " + count + "." + " " + name
     count += 1
     end
+    puts message
   end
 end
 
