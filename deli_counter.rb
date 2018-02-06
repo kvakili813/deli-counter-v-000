@@ -24,4 +24,4 @@ def now_serving(katz_deli)
     katz_deli.delete[0]
 end
 end
-end
+
