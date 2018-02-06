@@ -1,4 +1,3 @@
-require 'pry'
 def line(katz_deli)
 message = "The line is currently:"
   count=1
