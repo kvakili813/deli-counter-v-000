@@ -16,5 +16,3 @@ def take_a_number(katz_deli, "Ada")
   if katz_deli.length==0
   puts "Welcome, Ada. You are number 1 in line."
 end
-end
-end
