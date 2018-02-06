@@ -1,8 +1,8 @@
 def line(katz_deli)
+  count=1
   if katz_deli.length==0
     puts "The line is currently empty."
   else
-    count=1
     puts "The line is currently: #{other_deli}"
   end
 end
