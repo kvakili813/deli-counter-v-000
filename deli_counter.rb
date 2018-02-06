@@ -1,12 +1,12 @@
 def line(katz_deli)
+message = "The line is currently:"
   count=1
   if katz_deli.length==0
     puts "The line is currently empty."
   else
     katz_deli.each do |name|
-      puts name
+      message << name
     end
-    puts "The line is currently: #{katz_deli}"
   end
 end
 
