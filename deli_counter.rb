@@ -3,7 +3,7 @@ def line(katz_deli)
     puts "The line is currently empty."
   else
     count=1
-    puts "The line is currently: #{katz_deli}"
+    puts "The line is currently: #{other_deli}"
   end
 end
 
